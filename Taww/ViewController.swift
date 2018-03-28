@@ -58,6 +58,15 @@ class ViewController: UIViewController {
         }
             
         }
+    
+    
+    @IBAction func buttonReset(_ sender: Any) {
+        
+        
+        
+    }
+    
+    
 }
     
         
