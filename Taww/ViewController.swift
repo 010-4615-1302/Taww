@@ -62,7 +62,8 @@ class ViewController: UIViewController {
     
     @IBAction func buttonReset(_ sender: Any) {
         
-        
+        input.text = ""
+        resultLabel.text = ""
         
     }
     
